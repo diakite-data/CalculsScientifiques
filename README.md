@@ -1,5 +1,5 @@
 # CalculsScientifiques
-=======
+---
 # 🧮 Python – Calcul Scientifique & Simulations  
 **Bootcamp complet pour scientifiques, ingénieurs et data engineers**
 
